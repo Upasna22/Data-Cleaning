@@ -1,0 +1,2 @@
+# Data-Cleaning
+Analyzes a database that contained uncertain and imprecise references (dirty data). Code cleanes the dataset using proper transformation rules and spelling checks in Python. Also removes frequently occurring stop words  and implements spell-check using Python Library PyEnchant. Finally information is queried from the cleaned dataset to test accuracy. Implemented Edit distance and Jaccard distance to query the dataset.
